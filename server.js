@@ -7,5 +7,5 @@ app.listen(3000, function() {
 })
 
 app.get("/", function(req, res) {
-    res.send("<h1>¨bajks</h1>")
+    res.send("<h1>bajsar</h1>")
 });
